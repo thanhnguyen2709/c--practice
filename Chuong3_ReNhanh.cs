@@ -17,7 +17,7 @@
 using System;
 
 // Khai báo không gian tên
-namespace NMLT.Chuong3
+namespace LTCsharp.Buoi3
 {
     // Khai báo lớp chính
     class Chuong3_ReNhanh

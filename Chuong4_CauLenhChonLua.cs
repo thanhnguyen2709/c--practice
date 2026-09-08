@@ -17,7 +17,7 @@
 using System;
 
 // Khai báo không gian tên
-namespace NMLT.Chuong4
+namespace LTCsharp.Buoi4
 {
     // Khai báo lớp chính
     class Chuong4_CauLenhChonLua

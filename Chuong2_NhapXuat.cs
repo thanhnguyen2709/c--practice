@@ -17,7 +17,7 @@
 using System;
 
 // Khai báo không gian tên
-namespace NMLT.Chuong2
+namespace LTCsharp.Buoi2
 {
     // Khai báo lớp chính
     class Chuong2_NhapXuat

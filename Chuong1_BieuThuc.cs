@@ -17,7 +17,7 @@
 using System;
 
 // Khai báo không gian tên (namespace) để tổ chức code
-namespace NMLT.Chuong1
+namespace LTCsharp.Buoi1
 {
     // Khai báo lớp (class) chính chứa tất cả các bài tập
     class Chuong1_BieuThuc
