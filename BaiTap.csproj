@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <StartupObject>LTCsharp.Test.TestChuong1</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Chuong1_BieuThuc.cs" />
+    <Compile Include="TestChuong1.cs" />
+  </ItemGroup>
+
+</Project>
