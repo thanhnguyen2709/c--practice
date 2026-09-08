@@ -2,6 +2,8 @@
  * ============================================================
  * CHƯƠNG 2: BÀI TẬP CƠ BẢN - NHẬP XUẤT DỮ LIỆU
  * ============================================================
+  *Tác giả : Nguyễn Trường Thành
+ * Ngày viết: 8/9/2026
  * Bài 1: In nhãn                          (InNhan)
  * Bài 2: Tính diện tích và chu hình tròn  (HinhTron)
  * Bài 3: Đổi sang giây                    (DoiSangGiay)

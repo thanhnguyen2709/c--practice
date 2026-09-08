@@ -2,6 +2,8 @@
  * ============================================================
  * CHƯƠNG 3: CẤU TRÚC RẼ NHÁNH
  * ============================================================
+  *Tác giả : Nguyễn Trường Thành
+ * Ngày viết: 8/9/2026
  * Bài 1: Tìm Max Min 5 số          (MaxMin5So)
  * Bài 2: Tính giá trị hàm số 1     (GiaTriHamSo1)
  * Bài 3: Giải phương trình bậc 2   (PhuongTrinhBac2)

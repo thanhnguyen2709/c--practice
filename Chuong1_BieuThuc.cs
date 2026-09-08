@@ -2,6 +2,8 @@
  * ============================================================
  * CHƯƠNG 1: BÀI TẬP CƠ BẢN - BIỂU THỨC
  * ============================================================
+ *Tác giả : Nguyễn Trường Thành
+ * Ngày viết: 8/9/2026
  * Bài 1: Tính tổng đoạn           (TongDoan)
  * Bài 2: Lũy thừa nhanh 1         (LuyThuaNhanh1)
  * Bài 3: Tính biểu thức nhanh 1   (BieuThucNhanh1)

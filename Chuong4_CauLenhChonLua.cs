@@ -2,6 +2,8 @@
  * ============================================================
  * CHƯƠNG 4: CÂU LỆNH CHỌN LỰA
  * ============================================================
+  *Tác giả : Nguyễn Trường Thành
+ * Ngày viết: 8/9/2026
  * Bài 1: Điểm trung bình       (DiemTrungBinh)
  * Bài 2: Tính tiền nước         (TienNuoc)
  * Bài 3: Ngày sau               (NgaySau)
