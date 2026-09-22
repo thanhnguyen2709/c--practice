@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <StartupObject>LTCsharp.Test.TestChuong3</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="TestChuong3.cs" />
+  </ItemGroup>
+
+  <!-- Cho phep project test xUnit truy cap cac class internal -->
+  <ItemGroup>
+    <InternalsVisibleTo Include="Buoi3.Tests" />
+  </ItemGroup>
+
+</Project>
